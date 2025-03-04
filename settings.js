@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
+global.ownernomer = "255745950018"
 global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernumber = '255745950018'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -55,17 +55,17 @@ global.mess = {
 
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
-global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
-global.botname = "CREEPY_MD-V1"; 
+global.location = "Gomz/Tanzania";
+global.ownername = "DE CULTURE";
+global.botname = "KINDURI_MD-V1"; 
 
 // Sticker details
-global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.packname = "KINDURI-Tech";
+global.author = "KINDURI";
 
 // Console view/theme
 global.themeemoji = "🤖";
-global.wm = "Danny";
+global.wm = "KINDURI";
 
 global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
 
